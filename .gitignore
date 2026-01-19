@@ -196,3 +196,5 @@ cython_debug/
 "*.tmp" 
 ~$*.docx 
 *.tmp 
+"~$*.docx" 
+"*.tmp" 
